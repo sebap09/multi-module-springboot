@@ -1,0 +1,28 @@
+{
+  "familyName": "Nowak",
+  "nrOfInfants": 0,
+  "nrOfChildren": 3,
+  "nrOfAdults": 1,
+  "members": [
+    {
+      "givenName": "Adam",
+      "familyName": "Nowak",
+      "age": 10
+    },
+    {
+      "givenName": "Patrycja",
+      "familyName": "Nowak",
+      "age": 11
+    },
+    {
+      "givenName": "Dominika",
+      "familyName": "Nowak",
+      "age": 12
+    },
+    {
+      "givenName": "Joanna",
+      "familyName": "Kowalska",
+      "age": 18
+    }
+  ]
+}
