@@ -6,6 +6,6 @@ CREATE TABLE family_member (
     age int not null,
     PRIMARY KEY (id)
     -- FOREIGN KEY (family_id) REFERENCES family(id), cannot be used, because firstly we
-        -- save members, then the family which gives an exception
+    -- save members, then the family which gives an exception
 );
 
